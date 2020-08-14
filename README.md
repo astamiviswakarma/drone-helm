@@ -15,7 +15,6 @@ This plugin allows to deploy a [Helm](https://github.com/kubernetes/helm) chart 
 
 For the usage information and a listing of the available options please take a look at [the docs](DOCS.md).
 
-
 Run the local image (or replace `drone-helm` with `quay.io/ipedrazas/drone-helm`:
 
 ```bash
